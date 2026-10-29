@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+vaderSentiment
+requests
+matplotlib
